@@ -7,7 +7,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>Evaluation Example Tests</name>
+    <name>Evaluation Example Tests-Dev branch</name>
     <url>http://jbpm.org</url>
 
     <properties>
